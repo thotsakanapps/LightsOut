@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Lights Out</string>
+
+    <!-- action bar -->
+    <string name="action_game_difficulty">Game Difficulty</string>
+    <string name="action_new_game">New Game</string>
+    <string name="action_game_instructions">Instructions</string>
+    <string name="action_rate_app">Rate this App</string>
+    <string name="action_other_apps">Our App Portfolio</string>
+    <string name="action_other_apps_publisher">Thotsakan Apps</string>
+
+    <!-- moves -->
+    <string name="best_moves_key">Best</string>
+    <string name="best_moves">Best</string>
+    <string name="current_moves">Moves</string>
+
+    <!-- game difficulty -->
+    <string name="game_difficulty_key">Difficulty</string>
+
+    <!-- Info: Dialog -->
+    <string name="game_instructions">Instructions</string>
+    <string name="game_instructions_objective">Objective</string>
+    <string name="game_instructions_objective_message">Turn off all the colored tiles.</string>
+    <string name="game_instructions_control">Control</string>
+    <string name="game_instructions_control_message">1. Tapping on a tile toggles it and the four adjacent (top, bottom, right and left) tiles.\n\n2. Adjust game difficulty through the seek bar provided in the menu (star icon).</string>
+    <string name="game_instructions_close_button_text">Close</string>
+    <string name="game_instructions_on_startup_key">Instructions On Startup</string>
+
+    <!-- ad unit -->
+    <string name="banner_ad_unit_id"></string>
+</resources>
